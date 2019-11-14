@@ -1,5 +1,4 @@
-# files-interaction-with-mongodb 
-
+# mongoFiles
 
 Requirements
 ---
@@ -10,7 +9,7 @@ Requirements
 
 Overview
 ---
-files-interaction-with-mongodb  is a web application developed with express.js, mongodb and react which uses GFS( or GridFS ) to load files in database.
+A web application developed with express.js, mongodb and react which uses GFS( or GridFS ) to load files in database.
 
 
 GFS ( or GridFS) is a specification for storing and retrieving files.
