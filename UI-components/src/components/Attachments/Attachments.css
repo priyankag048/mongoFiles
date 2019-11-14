@@ -1,0 +1,32 @@
+.attachment-container{
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.attachment-file{
+    background-color: #f2f3f7;
+    border: 1px solid #f2f3f7;
+    width: 200px;
+    height: 30px;
+}
+
+.attachment-img{
+    height:30px;
+    width:30px;
+}
+
+.downld-attachments{
+    margin-left:500px;
+}
+
+.attachment-btn{
+    margin-top: 20px;
+    float: right;
+    width: 120px;
+    height: 40px;
+    font-weight: 700;
+    font-size: 14px;
+    border-radius: 5%;
+    margin-right: 2%;
+    cursor: pointer;
+}

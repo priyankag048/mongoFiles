@@ -1,0 +1,9 @@
+.App{
+    margin : 80px;
+}
+
+
+.hide{
+    opacity:0;
+    width:1px;
+}

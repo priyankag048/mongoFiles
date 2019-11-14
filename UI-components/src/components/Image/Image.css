@@ -1,0 +1,37 @@
+.image{
+    height:160px;
+    width:160px;
+    border-radius: 50%;
+}
+
+
+.image-container{
+    display: flex;
+    margin-bottom:100px;
+}
+
+.btn-container{
+    margin-top: 80px;
+    margin-left: 30px;
+}
+
+.btn{
+    width: 120px;
+    height: 40px;
+    font-weight: bold;
+    border-radius: 5%;
+    cursor: pointer;
+}
+
+.change-image-btn{
+    font-size: 12px;
+    border: 3px solid rgba(22, 36, 233, 0.533);
+    color: rgba(22, 36, 233, 0.533);
+}
+
+.actions{
+    font-size: 14px;
+    border: 3px solid #EF1547;
+    color: #EF1547;
+    margin-left: 30px;
+}

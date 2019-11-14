@@ -1,0 +1,19 @@
+{
+  "name": "files-interaction-with-mongodb-ui",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "0.18.0",
+    "react": "16.3.2",
+    "react-dom": "16.3.2",
+    "react-redux": "5.0.7",
+    "react-redux-form": "1.16.6",
+    "react-redux-toastr": "7.2.3",
+    "react-scripts": "1.1.4",
+    "redux": "3.7.2",
+    "redux-saga": "0.16.0"
+  },
+  "scripts": {
+    "build": "react-scripts build"
+  }
+}
